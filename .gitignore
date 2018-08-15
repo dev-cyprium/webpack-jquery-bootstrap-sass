@@ -1,0 +1,6 @@
+# Ignore the node modules
+node_modules/**
+# Ignore the dist folder
+dist/**
+# Ignore any error logs
+*error.log
