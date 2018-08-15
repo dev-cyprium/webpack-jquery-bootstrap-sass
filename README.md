@@ -10,3 +10,7 @@
 
 # Hosting
 1) Run the script `yarn build`
+2) Place `index.html` file in the server root and add the `dist` folder in order to host your website
+
+Enjoy!
+- Stef.
